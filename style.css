@@ -1,0 +1,73 @@
+body {
+    background-color: blue;
+}
+.zagolovok {   
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    padding: 10px;
+    margin-left: 20px;
+}
+.conteiner {
+    position: absolute;
+    right: 0px;
+    top: 30px;
+
+}
+.explore {
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+}    
+.events {
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+}
+.about {
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+}
+.community {
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+}
+.contact {
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    color: white;
+    display: inline-block;
+    margin-right: 200px;
+}
+.text-zg {
+    color: pink;
+    font-family: 'Forum', cursive;
+    font-family: 'Overpass Mono', monospace;
+    font-size: 65px;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.text {
+    color: white;
+    font-size: 25px;
+    line-height: 2;
+    margin-right: 11%;
+}
+.img1 {
+    float: left;
+    padding: 2%;
+    padding-right: 3%;
+}
+.img2 {
+    float: left;
+}
